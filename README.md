@@ -20,7 +20,7 @@ because the lambda project is in a different directory `D:\cdk csharp\MyLambda\M
 
 
 ## DIAGRAM 
-![img.png](img.png)
+<img src="https://github.com/user-attachments/assets/2589be54-65f0-484e-965f-a4836f66a123" alt="img" width="500"/>
 
 ## Resources created till now
  - Lambda function
