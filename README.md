@@ -19,6 +19,9 @@ because the lambda project is in a different directory `D:\cdk csharp\MyLambda\M
 - We should run cdk bootstrap from the directory where cdk.json is located, because that is the root of your CDK app.
 
 
+## DIAGRAM 
+![img.png](img.png)
+
 ## Resources created till now
  - Lambda function
  - Dynamodb table
