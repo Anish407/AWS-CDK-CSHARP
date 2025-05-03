@@ -6,7 +6,8 @@ Trying out AWS CDK in C#.
 
 The project structure is as follows: 
 1. Lambda receives a request as input and stores the data into a dynamodb table. 
-
+2. The lambda function and DynamoDb tables is created using the AWS CDK in C#.
+3. The dynamodb read/write permissions are given to the lambda function using the CDK.
 
 ## Points to note
 - The code is written in C# and uses the AWS CDK to define the infrastructure.
@@ -20,3 +21,4 @@ because the lambda project is in a different directory `D:\cdk csharp\MyLambda\M
 
 ## Resources created till now
  - Lambda function
+ - Dynamodb table
